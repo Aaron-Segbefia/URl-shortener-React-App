@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from "react";
+import { useState, useRef } from "react";
 import Button from "../button/Button";
 import shortenCSS from "./shortenCSS.module.css";
 import LinkItem from "./LinkItem";
